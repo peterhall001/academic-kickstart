@@ -25,7 +25,8 @@ email = ""
 interests = [
   "Health Economics",
   "Cancer Informatics",
-  "Decision Science"
+  "Decision Science",
+  "Health Technology Assessment"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -56,7 +57,7 @@ user_groups = []
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "mailto:laura.wood@ed.ac.uk".
 
 [[social]]
   icon = "twitter"
